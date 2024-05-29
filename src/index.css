@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'VerizonNHGeTX-Regular';
+  src: url('./VerizonNHGeTX-Regular.otf') format('truetype');
+}
+ 
+
+@font-face {
+  font-family: 'VerizonNHGeTX-Bold';
+  src: url('./VerizonNHGeTX-Bold.otf') format('truetype');
+}

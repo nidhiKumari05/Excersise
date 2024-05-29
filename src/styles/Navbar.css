@@ -1,0 +1,33 @@
+/* NavBar.css */
+.navbar {
+   
+    color: black;
+    background-color: white;
+
+}
+
+.navbar-left,
+.navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-item {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.navbar-item:hover {
+    color: black;
+}
+
+.profile-icon {
+    font-size: 1.5em;
+}
+
+.active {
+    font-weight: bold;
+    border-bottom: 2px gray;
+}

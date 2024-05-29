@@ -1,0 +1,6 @@
+To run the Application in local :
+
+1. Node need to be installed version >20 .
+2. Run the command "npm i" in app integrated terminal .
+3. Run the command "npm start" to run the app in browser . 
+
